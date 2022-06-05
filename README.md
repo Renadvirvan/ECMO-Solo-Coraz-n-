@@ -167,7 +167,7 @@ Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) 
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/Renadvirvan/ECMO-Solo-Coraz-n-/wiki)
 
 <p align="right">(<a href="#ecmo">Inicio</a>)</p>
 
