@@ -27,7 +27,7 @@ _55 7036 7593_
 
 _Código para control y monitoreo de temperaturas en sistema ECMO para corazón_
 
-
+<details>
   <summary>Índice</summary>
   <ol>
     <li>
@@ -57,7 +57,7 @@ _Código para control y monitoreo de temperaturas en sistema ECMO para corazón_
     <li><a href="#licencia">Licencia 📄</a></li>
     <li><a href="#expresiones-de-gratitud">Expresiones De Gratitud 🎁</a></li>
   </ol>
-
+</details>
 
 <p align="right">(<a href="#ecmo">Inicio</a>)</p>
 
@@ -184,13 +184,13 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
 * **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la página oficial de la compañía para obtener mayores informes [VHBA](https://sandiaestudio.com/muestras/vhba-medicos/contact-us.html) quíenes han participado en este proyecto. 
 
 <p align="right">(<a href="#ecmo">Inicio</a>)</p>
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia "*Eclipse Public License - v 2.0*" - mira el archivo [LICENSE](LICENSE) para detalles
 
 <p align="right">(<a href="#ecmo">Inicio</a>)</p>
 
